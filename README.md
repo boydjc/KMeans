@@ -1,5 +1,5 @@
 # KMeans
-My own implementation of the KMeans clustering algorithm for a class assignment.
+My own implementation of the KMeans clustering algorithm for a previous class assignment.
 
 **A result of running the algorithm with the A.txt data file**
 
